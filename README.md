@@ -1,4 +1,4 @@
-### 👋 Hello, I'm André Aragão
+👋 Hello, I'm André Aragão
 🔭 I'm currently a student at ISLA Santarém.
 - 🌱 I'm a web and mobile developer.
 <div align="center">

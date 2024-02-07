@@ -1,5 +1,6 @@
+### 👋 Hello, I'm André Aragão
 🔭 I'm currently a student at ISLA Santarém.
-- 🌱 I'm a Web Developer.
+- 🌱 I'm a web and mobile developer.
 <div align="center">
   <a href="https://github.com/AndreAragaoSoftware">
   

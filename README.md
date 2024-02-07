@@ -28,3 +28,6 @@
         <img align="center" alt="Linkedin" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
     </a>
 </div>
+
+### My projects 
+1<a target="_new" href="https://app-mata-mosquito-js.vercel.app/">Visit the "Mata Mosquito" application</a>

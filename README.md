@@ -2,8 +2,7 @@
 ### 🏫 I'm currently a student at ISLA Santarém.  
 ### 💻 I'm a web and mobile developer.
 
-<div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndreAragaoSoftware&show_icons=true&theme=dracula"/>
+<div>
     <a href="https://github.com/AndreAragaoSoftware">
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreAragaoSoftware&layout=compact&langs_count=7&theme=dracula"/>
     </a>
@@ -31,3 +30,4 @@
 
 ### My projects 
 1<a target="_new" href="https://app-mata-mosquito-js.vercel.app/">Visit the "Mata Mosquito" application</a>
+2<a target="_new" href="https://app-mata-mosquito-js.vercel.app/">Visit the "API Node" application</a>

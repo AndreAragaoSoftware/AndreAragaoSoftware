@@ -30,5 +30,5 @@
 
 ### My projects 
 1<a target="_new" href="https://app-mata-mosquito-js.vercel.app/">Visit the "Mata Mosquito" application</a><br>
-2<a target="_new" href="https://github.com/AndreAragaoSoftware/API-Escola">Visit the "API Node" application</a>
+2<a target="_new" href="https://github.com/AndreAragaoSoftware/API-Escola">Visit the "API Node" application</a><br>
 3<a target="_new" href="[https://github.com/AndreAragaoSoftware/API-Escola](https://github.com/AndreAragaoSoftware/SOLID-MVC-TypeScript-API-)">Visit the "API Node" application</a>

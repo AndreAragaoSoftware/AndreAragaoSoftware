@@ -1,6 +1,5 @@
 # 👋 Hello, I'm André Aragão  
-### 🏫 I'm currently a student at ISLA Santarém.  
-### 💻 I'm a web and mobile developer.
+### 💻 I'm Full Stack developer.
 
 <div>
     <a href="https://github.com/AndreAragaoSoftware">
@@ -32,3 +31,4 @@
 ### My projects 
 1<a target="_new" href="https://app-mata-mosquito-js.vercel.app/">Visit the "Mata Mosquito" application</a><br>
 2<a target="_new" href="https://github.com/AndreAragaoSoftware/API-Escola">Visit the "API Node" application</a>
+3<a target="_new" href="[https://github.com/AndreAragaoSoftware/API-Escola](https://github.com/AndreAragaoSoftware/SOLID-MVC-TypeScript-API-)">Visit the "API Node" application</a>
